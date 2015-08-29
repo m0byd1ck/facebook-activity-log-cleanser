@@ -20,6 +20,7 @@ It is not perfect and a bit hacky, but at the time of coding I could not find an
 ## Notes
 ### Will be deleted:
 * Your posts/statuses
+* Posts you have made on other peoples timelines
 * Comments you've made
 * Likes on groups/comments/images
 
