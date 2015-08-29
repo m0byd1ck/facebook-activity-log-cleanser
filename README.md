@@ -1,6 +1,6 @@
-# Facebook activity log cleanser
+# Facebook activity log (timeline) cleanser
 ## About
-Facebook activity log cleanser is a script that can be run in FireFox scratchpad that will automatically delete posts on your activity log.
+Facebook activity log (timeline) cleanser is a script that can be run in FireFox scratchpad that will automatically delete posts on your activity log.
 
 It is a JavaScript code that does nothing more than simulate the mouse clicks. You can set it running and leave it to complete. It takes appx. 10 seconds per post (so may take a while if you have been busy).
 
