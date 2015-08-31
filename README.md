@@ -42,6 +42,8 @@ It is not perfect and a bit hacky, but at the time of coding I could not find an
 
     function doSetTimeout(i, timeout) {
       setTimeout(function() { 
+          buttons[i].scrollIntoView( true );
+          window.scrollBy(0, -200);
           buttons[i].focus();
       }, timeout);
       setTimeout(function() { 
